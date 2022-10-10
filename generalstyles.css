@@ -1,0 +1,19 @@
+*{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(183, 0, 255);
+}
+#h1styles{
+    color: black;
+    font-family: cambria;
+    text-align: center;
+}
+
+.pstyles{
+    background-color: white;
+}
+.maindiv{
+    background-color: black;
+    width: 100%; 
+    
+}
